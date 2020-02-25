@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/network.cpp
+network.h
+/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/network.h
+iostream
+-
+
+/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/network.h
+vector
+-
+people.h
+/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/people.h
+
+/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/people.h
+vector
+-
+

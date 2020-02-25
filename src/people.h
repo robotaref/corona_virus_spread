@@ -19,6 +19,8 @@ public:
 
     people(int id);
 
+    bool is_neighbor(int index);
+
     void add_neighbor(people *other);
 };
 

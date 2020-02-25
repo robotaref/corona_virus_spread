@@ -1,0 +1,3 @@
+/Users/arefghodamai/Desktop/Personal/crona_virus_spread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/arefghodamai/Desktop/Personal/crona_virus_spread/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arefghodamai/Desktop/Personal/crona_virus_spread/cmake-build-debug/CMakeFiles/untitled.dir

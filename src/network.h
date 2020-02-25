@@ -11,6 +11,7 @@
 class network {
 public:
     vector<people*> ppl;
+    vector<people *> hash_map;
 
     network(int num_of_people, int num_of_neighbors);
     void add_neighbor(int i, int j);

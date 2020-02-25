@@ -4,6 +4,6 @@
 
 using namespace std;
 int main() {
-    network net(12,2);
+    network net(100000,20);
     return 0;
 }
