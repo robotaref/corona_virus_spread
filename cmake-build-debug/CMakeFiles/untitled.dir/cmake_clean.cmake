@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/main.cpp.o"
-  "CMakeFiles/untitled.dir/src/network.cpp.o"
   "CMakeFiles/untitled.dir/src/people.cpp.o"
-  "untitled"
+  "CMakeFiles/untitled.dir/src/network.cpp.o"
   "untitled.pdb"
+  "untitled"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -7,17 +7,20 @@
 
 #include <vector>
 
-class people;
-
 using namespace std;
 
 class people {
 public:
     bool is_sick;
+    bool is_out;
     int id;
+    int start_day_of_sickness;
+
     vector<people *> neighbors;
 
     people(int id);
+
+    void make_sick(int start_day);
 
     bool is_neighbor(int index);
 

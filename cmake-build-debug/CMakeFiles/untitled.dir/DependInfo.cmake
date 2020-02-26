@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/arefghodamai/Desktop/Personal/crona_virus_spread/main.cpp" "/Users/arefghodamai/Desktop/Personal/crona_virus_spread/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
-  "/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/network.cpp" "/Users/arefghodamai/Desktop/Personal/crona_virus_spread/cmake-build-debug/CMakeFiles/untitled.dir/src/network.cpp.o"
-  "/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/people.cpp" "/Users/arefghodamai/Desktop/Personal/crona_virus_spread/cmake-build-debug/CMakeFiles/untitled.dir/src/people.cpp.o"
+  "/Users/arefghodamai/Desktop/Programming/crona_virus_spread/main.cpp" "/Users/arefghodamai/Desktop/Programming/crona_virus_spread/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
+  "/Users/arefghodamai/Desktop/Programming/crona_virus_spread/src/network.cpp" "/Users/arefghodamai/Desktop/Programming/crona_virus_spread/cmake-build-debug/CMakeFiles/untitled.dir/src/network.cpp.o"
+  "/Users/arefghodamai/Desktop/Programming/crona_virus_spread/src/people.cpp" "/Users/arefghodamai/Desktop/Programming/crona_virus_spread/cmake-build-debug/CMakeFiles/untitled.dir/src/people.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

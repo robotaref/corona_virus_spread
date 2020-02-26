@@ -1,4 +1,4 @@
-# Install script for directory: /Users/arefghodamai/Desktop/Personal/crona_virus_spread
+# Install script for directory: /Users/arefghodamai/Desktop/Programming/crona_virus_spread
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/arefghodamai/Desktop/Personal/crona_virus_spread/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/arefghodamai/Desktop/Programming/crona_virus_spread/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

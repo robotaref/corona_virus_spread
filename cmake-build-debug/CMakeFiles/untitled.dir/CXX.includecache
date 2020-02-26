@@ -6,19 +6,35 @@
 
 #IncludeRegexTransform: 
 
-/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/network.cpp
-network.h
-/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/network.h
+/Users/arefghodamai/Desktop/Programming/crona_virus_spread/main.cpp
+src/network.h
+/Users/arefghodamai/Desktop/Programming/crona_virus_spread/src/network.h
 iostream
 -
+src/people.h
+/Users/arefghodamai/Desktop/Programming/crona_virus_spread/src/people.h
 
-/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/network.h
+/Users/arefghodamai/Desktop/Programming/crona_virus_spread/src/network.cpp
+network.h
+/Users/arefghodamai/Desktop/Programming/crona_virus_spread/src/network.h
+iostream
+-
+fstream
+-
+
+/Users/arefghodamai/Desktop/Programming/crona_virus_spread/src/network.h
 vector
 -
+string
+-
 people.h
-/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/people.h
+/Users/arefghodamai/Desktop/Programming/crona_virus_spread/src/people.h
 
-/Users/arefghodamai/Desktop/Personal/crona_virus_spread/src/people.h
+/Users/arefghodamai/Desktop/Programming/crona_virus_spread/src/people.cpp
+people.h
+/Users/arefghodamai/Desktop/Programming/crona_virus_spread/src/people.h
+
+/Users/arefghodamai/Desktop/Programming/crona_virus_spread/src/people.h
 vector
 -
 
